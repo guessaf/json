@@ -1,5 +1,5 @@
 {
-    "ads": {"work":"admob2","network":"fan"},
+    "ads": {"work":"admob1","network":"fan"},
 
   "admob1": {"banner":"ca-app-pub-3940256099942544/6300978111","inter":"ca-app-pub-3940256099942544/1033173712"},
   "admob2": {"banner":"admob2zzzzz","inter":"admob2zzzzzz"},
